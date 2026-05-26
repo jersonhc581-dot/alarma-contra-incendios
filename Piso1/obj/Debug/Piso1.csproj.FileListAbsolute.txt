@@ -1,0 +1,12 @@
+C:\Users\Usuario\Downloads\T3\SistemaContraincendio-master\Piso1\bin\Debug\Piso1.dll
+C:\Users\Usuario\Downloads\T3\SistemaContraincendio-master\Piso1\bin\Debug\Piso1.pdb
+C:\Users\Usuario\Downloads\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.dll
+C:\Users\Usuario\Downloads\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.pdb
+C:\Users\Usuario\Downloads\hols\El_Bomberito-main\T3\SistemaContraincendio-master\Piso1\bin\Debug\Piso1.dll
+C:\Users\Usuario\Downloads\hols\El_Bomberito-main\T3\SistemaContraincendio-master\Piso1\bin\Debug\Piso1.pdb
+C:\Users\Usuario\Downloads\hols\El_Bomberito-main\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\hols\El_Bomberito-main\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\hols\El_Bomberito-main\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.dll
+C:\Users\Usuario\Downloads\hols\El_Bomberito-main\T3\SistemaContraincendio-master\Piso1\obj\Debug\Piso1.pdb
